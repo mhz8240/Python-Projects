@@ -3,8 +3,8 @@
 This repo contains an end-to-end pipeline (implemented in a single Jupyter notebook) that builds game-level features from historical NFL data, trains a model to predict outcomes, and generates weekly predictions.
 
 ## Results (Recent Seasons)
-- **W/L record over Last Two Seasons:** `389-180-1` (**68.4%**)
-- **ATS over Last Two Seasons (vs Vegas spread):** `305-257-8` (**54.3%**)
+- **W/L Record over Last Two Seasons:** `389-180-1` (**68.4%**)
+- **ATS (Against the Spread) Record over Last Two Seasons (vs Vegas odds):** `305-257-8` (**54.3%**) -- **+4.3% edge**
 - 2024 recap deck: *https://docs.google.com/presentation/d/1znbKBgFQ_QQXw_xm91W1x_s_f14T21s4me7ceHXXfXg/edit?usp=sharing*
 - 2025 recap deck: *https://docs.google.com/presentation/d/1V8nD894wQmctfSbW4x1LnBecPViLVMpCaN5Pzcu_H24/edit?usp=sharing*
 
