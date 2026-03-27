@@ -1,6 +1,6 @@
-# NFL Game Predictions Model (End-to-End Pipeline)
+# NFL Game Predictions Model
 
-This repo contains an end-to-end pipeline (implemented in a single Jupyter notebook) that builds game-level features from historical NFL data, trains a model to predict outcomes, and generates weekly predictions.
+This repo contains a pipeline (implemented in a single Jupyter notebook) that builds game-level features from historical NFL data, trains a model to predict outcomes, and generates weekly predictions.
 
 ## Results (Recent Seasons)
 - **W/L Record over Last Two Seasons:** `389-180-1` (**68.4%**)
